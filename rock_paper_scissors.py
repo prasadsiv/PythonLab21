@@ -1,5 +1,5 @@
 #ROCK Paper Scissor Game 
-# Created By Sivaprasad.G  
+#Created By Sivaprasad.G  
 import random
 rock = '''
     _______
